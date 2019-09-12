@@ -1,0 +1,3 @@
+recruitment_homepage:
+    path:     /
+    defaults: { _controller: RecruitmentBundle:Default:index }
